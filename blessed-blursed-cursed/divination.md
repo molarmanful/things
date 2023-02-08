@@ -15,7 +15,7 @@ structure
 scenario
 ```
 
-From here, I decided to use the "magic" of AI to create the artwork. I first used ChatGPT to generate some text.
+From here, I decided to use the "magic" of AI - in this case, ChatGPT - to create the works.
 
 *make a poem with the following words: magazine business undress account instinct suspicion perception have structure scenario*
 
