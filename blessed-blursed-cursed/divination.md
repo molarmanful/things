@@ -41,6 +41,8 @@ With a clear perception and a solid structure in place,
 Success is yours, and it's just a matter of grace.
 ```
 
+What surprised me was how ChatGPT preserved rhyme scheme, as well as its decision to take on a motivational business-oriented tone.
+
 *now make an advertisement with those words*
 
 > Discover the Magazine for Business Success!
@@ -53,6 +55,8 @@ Success is yours, and it's just a matter of grace.
 >
 > Don't let mediocrity hold you back! Subscribe to the Magazine for Business Success today and have confidence in your ability to succeed. Order now and start your journey towards business success!
 
+If I were to start an MLM, I wouldn't need to hire a copywriter.
+
 *make a story with those words*
 
 > Once upon a time, there was a young man named Jack who worked at a local business. Despite his hard work, he felt unfulfilled and was searching for something more. One day, while browsing the shelves at the bookstore, he stumbled upon a magazine that caught his eye. It was called "The Magazine for Business Success".
@@ -64,6 +68,8 @@ Success is yours, and it's just a matter of grace.
 > However, not everyone was happy with Jack's sudden rise to success. One of his coworkers, Sarah, had a suspicion that Jack was up to something. She tried to bring up her concerns with the boss, but Jack's solid structure and clear perception made him seem untouchable. Sarah's suspicions were unfounded, and she eventually left the company in frustration.
 >
 > As for Jack, he continued to thrive in his new role and eventually became a successful business leader. He never forgot the lessons he learned from the magazine and was grateful for the impact it had on his life. From that day on, he made sure to always have a copy of "The Magazine for Business Success" by his side, ready to face any scenario that came his way.
+
+A testimonial from Jack for my hypothetical MLM.
 
 Finally, I asked ChatGPT to be my personal fortune-teller.
 
