@@ -1,0 +1,15 @@
+# Week 3
+
+![image](https://user-images.githubusercontent.com/7122029/218922483-e384a31f-3c08-4f7e-aa14-8a6981113ce9.png)
+![image](https://user-images.githubusercontent.com/7122029/218922619-2c1fe278-d9d2-420c-8c9e-fcf66fb07d0e.png)
+![image](https://user-images.githubusercontent.com/7122029/218922705-8053ee56-776b-4932-9a1b-2acb17a3c8a8.png)
+![image](https://user-images.githubusercontent.com/7122029/218922756-8861a43e-8527-43d9-9c5a-93b8a5608496.png)
+![image](https://user-images.githubusercontent.com/7122029/218922867-ccb524d2-fd28-4c14-9a51-6a9ee43e3760.png)
+![image](https://user-images.githubusercontent.com/7122029/218923097-f0c3c896-fd19-491b-905d-1c880ba4e421.png)
+![image](https://user-images.githubusercontent.com/7122029/218923140-1302a390-29d5-4a2a-af09-8ebd91535aaf.png)
+![image](https://user-images.githubusercontent.com/7122029/218923239-643a4159-b656-47f1-bf1c-327b7549ca87.png)
+![image](https://user-images.githubusercontent.com/7122029/218923318-fbe2ac03-b5b3-492c-b667-7a4c71a0badc.png)
+![image](https://user-images.githubusercontent.com/7122029/218923342-093458fa-e50a-4fce-9eda-a041d3dcd0c7.png)
+![image](https://user-images.githubusercontent.com/7122029/218923394-061f8c54-7dd6-4c94-aca8-7e92b3811675.png)
+![image](https://user-images.githubusercontent.com/7122029/218923412-c3d7bffe-b360-4f53-9cd6-d018fb1d4b97.png)
+![image](https://user-images.githubusercontent.com/7122029/218923457-330d61d9-637d-488f-9452-fc8d31e453c2.png)
